@@ -39,7 +39,7 @@ https://nishasherigar10-alt.github.io/CodeAlpha_Portfolio/
 
 ## Author
 
-**Nisha Sherigar**
+**Nisha**
 
 GitHub: https://github.com/nishasherigar10-alt
 
